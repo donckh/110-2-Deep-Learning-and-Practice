@@ -1,0 +1,8 @@
+1. KL用處
+normal distribution
+
+2. AE & VAE 區別
+Z是不連續的
+
+3.reparater用處
+可以gradient --> decode --> z --> encoder

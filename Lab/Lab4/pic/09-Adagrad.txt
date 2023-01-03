@@ -1,0 +1,29 @@
+DToolsAnaconda3envspytorchpython.exe DToolsPyCharm Community Edition with Anaconda plugin 2019.2.6LabLab4Lab4.py
+1.10.2 True NVIDIA GeForce GTX 1650
+(1080, 1, 2, 750) (1080,) (1080, 1, 2, 750) (1080,)
+train data sizetorch.Size([1080, 1, 2, 750]), labeltorch.Size([1080]) 
+test data sizetorch.Size([1080, 1, 2, 750]), labeltorch.Size([1080]) 
+Running on GPU True
+epoch0, train_acurracy65.00%, test_acurracy72.50%
+epoch50, train_acurracy75.00%, test_acurracy90.00%
+epoch100, train_acurracy85.00%, test_acurracy95.00%
+epoch150, train_acurracy85.00%, test_acurracy92.50%
+epoch200, train_acurracy90.00%, test_acurracy92.50%
+epoch250, train_acurracy87.50%, test_acurracy92.50%
+epoch300, train_acurracy90.00%, test_acurracy92.50%
+epoch350, train_acurracy90.00%, test_acurracy92.50%
+epoch400, train_acurracy87.50%, test_acurracy92.50%
+epoch450, train_acurracy90.00%, test_acurracy92.50%
+epoch500, train_acurracy97.50%, test_acurracy92.50%
+epoch550, train_acurracy92.50%, test_acurracy92.50%
+epoch600, train_acurracy97.50%, test_acurracy92.50%
+epoch650, train_acurracy90.00%, test_acurracy92.50%
+epoch700, train_acurracy95.00%, test_acurracy92.50%
+epoch750, train_acurracy95.00%, test_acurracy92.50%
+epoch800, train_acurracy92.50%, test_acurracy92.50%
+epoch850, train_acurracy97.50%, test_acurracy92.50%
+epoch900, train_acurracy97.50%, test_acurracy92.50%
+epoch950, train_acurracy92.50%, test_acurracy92.50%
+epoch1000, train_acurracy95.00%, test_acurracy92.50%
+train_epoch191, train_acurracy100.00%, test_epoch55, test_acurracy95.00%
+---------- EEGNet_Leaky_ReLU_Adagrad  done!----------

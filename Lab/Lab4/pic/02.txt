@@ -1,0 +1,56 @@
+D:\Tools\Anaconda3\envs\pytorch\python.exe "D:/Tools/PyCharm Community Edition with Anaconda plugin 2019.2.6/Lab/Lab4/Lab4.py"
+1.10.2 True NVIDIA GeForce GTX 1650
+(1080, 1, 2, 750) (1080,) (1080, 1, 2, 750) (1080,)
+train data size:torch.Size([1080, 1, 2, 750]), label:torch.Size([1080]) 
+test data size:torch.Size([1080, 1, 2, 750]), label:torch.Size([1080]) 
+Running on GPU: True
+epoch:0, train_acurracy:67.50%, test_acurracy:75.00%
+epoch:50, train_acurracy:95.00%, test_acurracy:75.00%
+epoch:100, train_acurracy:97.50%, test_acurracy:77.50%
+epoch:150, train_acurracy:100.00%, test_acurracy:77.50%
+epoch:200, train_acurracy:100.00%, test_acurracy:82.50%
+epoch:250, train_acurracy:100.00%, test_acurracy:85.00%
+train_epoch:68, train_acurracy:100.00%, test_epoch:270, test_acurracy:87.50%
+Running on GPU: True
+epoch:0, train_acurracy:62.50%, test_acurracy:67.50%
+epoch:50, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:100, train_acurracy:87.50%, test_acurracy:87.50%
+epoch:150, train_acurracy:95.00%, test_acurracy:90.00%
+epoch:200, train_acurracy:100.00%, test_acurracy:90.00%
+epoch:250, train_acurracy:100.00%, test_acurracy:87.50%
+train_epoch:41, train_acurracy:100.00%, test_epoch:30, test_acurracy:95.00%
+Running on GPU: True
+epoch:0, train_acurracy:70.00%, test_acurracy:62.50%
+epoch:50, train_acurracy:92.50%, test_acurracy:95.00%
+epoch:100, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:200, train_acurracy:97.50%, test_acurracy:90.00%
+epoch:250, train_acurracy:100.00%, test_acurracy:90.00%
+train_epoch:38, train_acurracy:100.00%, test_epoch:24, test_acurracy:95.00%
+2022-04-07T11:52:39.745ZE [30292:ShellIpcClient] ipc_socket_win.cc:162:Connect CreateFile on pipe failed: 
+2022-04-07T11:52:39.749ZE [30292:ShellIpcClient] ipc_socket_win.cc:163:Connect 231: All pipe instances are busy.
+
+Running on GPU: True
+epoch:0, train_acurracy:60.00%, test_acurracy:65.00%
+epoch:50, train_acurracy:85.00%, test_acurracy:80.00%
+epoch:100, train_acurracy:82.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:95.00%, test_acurracy:85.00%
+epoch:200, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:250, train_acurracy:95.00%, test_acurracy:90.00%
+train_epoch:109, train_acurracy:100.00%, test_epoch:42, test_acurracy:95.00%
+Running on GPU: True
+epoch:0, train_acurracy:47.50%, test_acurracy:60.00%
+epoch:50, train_acurracy:80.00%, test_acurracy:85.00%
+epoch:100, train_acurracy:87.50%, test_acurracy:87.50%
+epoch:150, train_acurracy:85.00%, test_acurracy:87.50%
+epoch:200, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:250, train_acurracy:97.50%, test_acurracy:87.50%
+train_epoch:148, train_acurracy:100.00%, test_epoch:30, test_acurracy:97.50%
+Running on GPU: True
+epoch:0, train_acurracy:40.00%, test_acurracy:60.00%
+epoch:50, train_acurracy:82.50%, test_acurracy:85.00%
+epoch:100, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:200, train_acurracy:85.00%, test_acurracy:87.50%
+epoch:250, train_acurracy:92.50%, test_acurracy:90.00%
+train_epoch:112, train_acurracy:100.00%, test_epoch:103, test_acurracy:95.00%

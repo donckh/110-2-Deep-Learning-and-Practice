@@ -1,0 +1,19 @@
+D:\Tools\Anaconda3\envs\pytorch\python.exe "D:/Tools/PyCharm Community Edition with Anaconda plugin 2019.2.6/Lab/Lab4-2/Lab4-2.py"
+NVIDIA GeForce GTX 1650 1
+> Found 28099 images...
+> Found 7025 images...
+<dataloader.RetinopathyLoader object at 0x00000151F9B1FD00>
+Running on GPU:  True
+epochs: 100.00%
+D:/Tools/PyCharm Community Edition with Anaconda plugin 2019.2.6/Lab/Lab4-2/Lab4-2.py:144: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+
+  train = torch.tensor(train_acc, device='cpu')
+D:/Tools/PyCharm Community Edition with Anaconda plugin 2019.2.6/Lab/Lab4-2/Lab4-2.py:145: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  test = torch.tensor(test_acc, device='cpu')
+tensor([0.7328, 0.7351, 0.7350, 0.7351, 0.7351, 0.7351, 0.7351, 0.7351, 0.7351,
+        0.7351, 0.7351], device='cuda:0') tensor([0.7263, 0.7325, 0.7147, 0.7273, 0.7240, 0.7213, 0.7274, 0.7267, 0.7285,
+        0.7199, 0.7290], device='cuda:0')
+Resnet18 max train accuracy: 73.51% max test accuracy: 73.25% 
+Done!
+
+Process finished with exit code 0

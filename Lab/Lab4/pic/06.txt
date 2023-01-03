@@ -1,0 +1,149 @@
+D:\Tools\Anaconda3\envs\pytorch\python.exe "D:/Tools/PyCharm Community Edition with Anaconda plugin 2019.2.6/Lab/Lab4/Lab4.py"
+1.10.2 True NVIDIA GeForce GTX 1650
+(1080, 1, 2, 750) (1080,) (1080, 1, 2, 750) (1080,)
+train data size:torch.Size([1080, 1, 2, 750]), label:torch.Size([1080]) 
+test data size:torch.Size([1080, 1, 2, 750]), label:torch.Size([1080]) 
+Running on GPU: True
+epoch:0, train_acurracy:70.00%, test_acurracy:67.50%
+epoch:50, train_acurracy:85.00%, test_acurracy:95.00%
+epoch:100, train_acurracy:85.00%, test_acurracy:95.00%
+epoch:150, train_acurracy:87.50%, test_acurracy:95.00%
+epoch:200, train_acurracy:97.50%, test_acurracy:95.00%
+epoch:250, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:300, train_acurracy:92.50%, test_acurracy:95.00%
+epoch:350, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:400, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:450, train_acurracy:100.00%, test_acurracy:95.00%
+epoch:500, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:550, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:600, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:650, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:700, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:750, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:800, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:850, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:900, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:950, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:1000, train_acurracy:95.00%, test_acurracy:92.50%
+train_epoch:167, train_acurracy:100.00%, test_epoch:83, test_acurracy:97.50%
+---------- EEGNet_Leaky_ReLU_dropout=0.6  done!----------
+Running on GPU: True
+epoch:0, train_acurracy:72.50%, test_acurracy:62.50%
+epoch:50, train_acurracy:77.50%, test_acurracy:92.50%
+epoch:100, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:200, train_acurracy:80.00%, test_acurracy:92.50%
+epoch:250, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:300, train_acurracy:82.50%, test_acurracy:92.50%
+epoch:350, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:400, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:450, train_acurracy:77.50%, test_acurracy:92.50%
+epoch:500, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:550, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:600, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:650, train_acurracy:97.50%, test_acurracy:90.00%
+epoch:700, train_acurracy:90.00%, test_acurracy:90.00%
+epoch:750, train_acurracy:95.00%, test_acurracy:90.00%
+epoch:800, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:850, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:900, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:950, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:1000, train_acurracy:95.00%, test_acurracy:92.50%
+train_epoch:220, train_acurracy:100.00%, test_epoch:52, test_acurracy:95.00%
+---------- EEGNet_Leaky_ReLU_dropout=0.7  done!----------
+Running on GPU: True
+epoch:0, train_acurracy:62.50%, test_acurracy:70.00%
+epoch:50, train_acurracy:82.50%, test_acurracy:90.00%
+epoch:100, train_acurracy:75.00%, test_acurracy:92.50%
+epoch:150, train_acurracy:82.50%, test_acurracy:95.00%
+epoch:200, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:250, train_acurracy:90.00%, test_acurracy:95.00%
+epoch:300, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:350, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:400, train_acurracy:82.50%, test_acurracy:92.50%
+epoch:450, train_acurracy:80.00%, test_acurracy:92.50%
+epoch:500, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:550, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:600, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:650, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:700, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:750, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:800, train_acurracy:67.50%, test_acurracy:92.50%
+epoch:850, train_acurracy:85.00%, test_acurracy:92.50%
+epoch:900, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:950, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:1000, train_acurracy:90.00%, test_acurracy:92.50%
+train_epoch:467, train_acurracy:100.00%, test_epoch:74, test_acurracy:95.00%
+---------- EEGNet_Leaky_ReLU_dropout=0.8  done!----------
+Running on GPU: True
+epoch:0, train_acurracy:77.50%, test_acurracy:67.50%
+epoch:50, train_acurracy:87.50%, test_acurracy:85.00%
+epoch:100, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:200, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:250, train_acurracy:100.00%, test_acurracy:97.50%
+epoch:300, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:350, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:400, train_acurracy:95.00%, test_acurracy:87.50%
+epoch:450, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:500, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:550, train_acurracy:97.50%, test_acurracy:90.00%
+epoch:600, train_acurracy:97.50%, test_acurracy:90.00%
+epoch:650, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:700, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:750, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:800, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:850, train_acurracy:100.00%, test_acurracy:90.00%
+epoch:900, train_acurracy:100.00%, test_acurracy:90.00%
+epoch:950, train_acurracy:100.00%, test_acurracy:87.50%
+epoch:1000, train_acurracy:100.00%, test_acurracy:90.00%
+train_epoch:59, train_acurracy:100.00%, test_epoch:53, test_acurracy:97.50%
+---------- EEGNet_Leaky_ReLU_dropout=0.3  done!----------
+Running on GPU: True
+epoch:0, train_acurracy:62.50%, test_acurracy:72.50%
+epoch:50, train_acurracy:92.50%, test_acurracy:95.00%
+epoch:100, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:200, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:250, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:300, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:350, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:400, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:450, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:500, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:550, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:600, train_acurracy:100.00%, test_acurracy:90.00%
+epoch:650, train_acurracy:100.00%, test_acurracy:90.00%
+epoch:700, train_acurracy:100.00%, test_acurracy:95.00%
+epoch:750, train_acurracy:97.50%, test_acurracy:90.00%
+epoch:800, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:850, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:900, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:950, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:1000, train_acurracy:97.50%, test_acurracy:92.50%
+train_epoch:76, train_acurracy:100.00%, test_epoch:50, test_acurracy:95.00%
+---------- EEGNet_Leaky_ReLU_dropout=0.4  done!----------
+Running on GPU: True
+epoch:0, train_acurracy:45.00%, test_acurracy:65.00%
+epoch:50, train_acurracy:90.00%, test_acurracy:92.50%
+epoch:100, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:150, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:200, train_acurracy:82.50%, test_acurracy:92.50%
+epoch:250, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:300, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:350, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:400, train_acurracy:87.50%, test_acurracy:92.50%
+epoch:450, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:500, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:550, train_acurracy:92.50%, test_acurracy:92.50%
+epoch:600, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:650, train_acurracy:97.50%, test_acurracy:92.50%
+epoch:700, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:750, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:800, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:850, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:900, train_acurracy:95.00%, test_acurracy:92.50%
+epoch:950, train_acurracy:100.00%, test_acurracy:92.50%
+epoch:1000, train_acurracy:100.00%, test_acurracy:92.50%
+train_epoch:122, train_acurracy:100.00%, test_epoch:24, test_acurracy:95.00%
+---------- EEGNet_Leaky_ReLU_dropout=0.5  done!----------

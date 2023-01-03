@@ -1,0 +1,2 @@
+1. N-truple 用處
+2. MC vs TD 區別
